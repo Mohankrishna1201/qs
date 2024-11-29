@@ -1,11 +1,10 @@
 
 import './App.css';
-import FileUploadComponent from './FileUploadComponent';
 
 function App() {
   return (
     <div className="App">
-      <FileUploadComponent />
+      <h1 className="text-4xl font-bold text-blue-500">Hi</h1>
     </div>
   );
 }
